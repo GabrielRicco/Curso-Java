@@ -1,0 +1,6 @@
+package br.com.cod3r.exerciciossb.controllers;
+
+public class CalculadoraController {
+	// /calculadora/somar/10/20
+	// /calculadora/subtrair?a=10&b=20
+}

@@ -1,0 +1,9 @@
+package br.com.cod3r.exerciciossb.controllers;
+
+import br.com.cod3r.exerciciossb.models.Cliente;
+
+public class ClienteController {
+	public Cliente obterCliente() {
+		return new Cliente(28, "Pedro", "123.456.789-00");
+	}
+}

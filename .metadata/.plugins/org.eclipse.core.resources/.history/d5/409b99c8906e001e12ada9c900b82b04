@@ -1,0 +1,9 @@
+package br.com.cod3r.exerciciossb.model.entities;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Produto {
+	private int id;
+	private String nome;
+}
